@@ -1,0 +1,42 @@
+C:\Users\45ksu\Desktop\ООП\WPF\bin\Debug\net6.0-windows\WPF.exe
+C:\Users\45ksu\Desktop\ООП\WPF\bin\Debug\net6.0-windows\WPF.deps.json
+C:\Users\45ksu\Desktop\ООП\WPF\bin\Debug\net6.0-windows\WPF.runtimeconfig.json
+C:\Users\45ksu\Desktop\ООП\WPF\bin\Debug\net6.0-windows\WPF.dll
+C:\Users\45ksu\Desktop\ООП\WPF\bin\Debug\net6.0-windows\WPF.pdb
+C:\Users\45ksu\Desktop\ООП\WPF\obj\Debug\net6.0-windows\WPF.csproj.AssemblyReference.cache
+C:\Users\45ksu\Desktop\ООП\WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\45ksu\Desktop\ООП\WPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\45ksu\Desktop\ООП\WPF\obj\Debug\net6.0-windows\WPF_MarkupCompile.cache
+C:\Users\45ksu\Desktop\ООП\WPF\obj\Debug\net6.0-windows\WPF_MarkupCompile.lref
+C:\Users\45ksu\Desktop\ООП\WPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\45ksu\Desktop\ООП\WPF\obj\Debug\net6.0-windows\WPF.g.resources
+C:\Users\45ksu\Desktop\ООП\WPF\obj\Debug\net6.0-windows\WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45ksu\Desktop\ООП\WPF\obj\Debug\net6.0-windows\WPF.AssemblyInfoInputs.cache
+C:\Users\45ksu\Desktop\ООП\WPF\obj\Debug\net6.0-windows\WPF.AssemblyInfo.cs
+C:\Users\45ksu\Desktop\ООП\WPF\obj\Debug\net6.0-windows\WPF.csproj.CoreCompileInputs.cache
+C:\Users\45ksu\Desktop\ООП\WPF\obj\Debug\net6.0-windows\WPF.dll
+C:\Users\45ksu\Desktop\ООП\WPF\obj\Debug\net6.0-windows\refint\WPF.dll
+C:\Users\45ksu\Desktop\ООП\WPF\obj\Debug\net6.0-windows\WPF.pdb
+C:\Users\45ksu\Desktop\ООП\WPF\obj\Debug\net6.0-windows\WPF.genruntimeconfig.cache
+C:\Users\45ksu\Desktop\ООП\WPF\obj\Debug\net6.0-windows\ref\WPF.dll
+D:\study\visual studio\c#\univ\HomeWork3\WPF\bin\Debug\net6.0-windows\WPF.exe
+D:\study\visual studio\c#\univ\HomeWork3\WPF\bin\Debug\net6.0-windows\WPF.deps.json
+D:\study\visual studio\c#\univ\HomeWork3\WPF\bin\Debug\net6.0-windows\WPF.runtimeconfig.json
+D:\study\visual studio\c#\univ\HomeWork3\WPF\bin\Debug\net6.0-windows\WPF.dll
+D:\study\visual studio\c#\univ\HomeWork3\WPF\bin\Debug\net6.0-windows\WPF.pdb
+D:\study\visual studio\c#\univ\HomeWork3\WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\study\visual studio\c#\univ\HomeWork3\WPF\obj\Debug\net6.0-windows\App.g.cs
+D:\study\visual studio\c#\univ\HomeWork3\WPF\obj\Debug\net6.0-windows\WPF_MarkupCompile.cache
+D:\study\visual studio\c#\univ\HomeWork3\WPF\obj\Debug\net6.0-windows\WPF_MarkupCompile.lref
+D:\study\visual studio\c#\univ\HomeWork3\WPF\obj\Debug\net6.0-windows\MainWindow.baml
+D:\study\visual studio\c#\univ\HomeWork3\WPF\obj\Debug\net6.0-windows\WPF.g.resources
+D:\study\visual studio\c#\univ\HomeWork3\WPF\obj\Debug\net6.0-windows\WPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\visual studio\c#\univ\HomeWork3\WPF\obj\Debug\net6.0-windows\WPF.AssemblyInfoInputs.cache
+D:\study\visual studio\c#\univ\HomeWork3\WPF\obj\Debug\net6.0-windows\WPF.AssemblyInfo.cs
+D:\study\visual studio\c#\univ\HomeWork3\WPF\obj\Debug\net6.0-windows\WPF.csproj.CoreCompileInputs.cache
+D:\study\visual studio\c#\univ\HomeWork3\WPF\obj\Debug\net6.0-windows\WPF.sourcelink.json
+D:\study\visual studio\c#\univ\HomeWork3\WPF\obj\Debug\net6.0-windows\WPF.dll
+D:\study\visual studio\c#\univ\HomeWork3\WPF\obj\Debug\net6.0-windows\refint\WPF.dll
+D:\study\visual studio\c#\univ\HomeWork3\WPF\obj\Debug\net6.0-windows\WPF.pdb
+D:\study\visual studio\c#\univ\HomeWork3\WPF\obj\Debug\net6.0-windows\WPF.genruntimeconfig.cache
+D:\study\visual studio\c#\univ\HomeWork3\WPF\obj\Debug\net6.0-windows\ref\WPF.dll
